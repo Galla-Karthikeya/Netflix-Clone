@@ -31,22 +31,20 @@ The **Netflix Clone Interface** project is a static web page designed to replica
 3. Open `index.html` in your web browser to view the interface.
 
 ## Project Structure
-Netflix-Clone/
-├── images/
-│   ├── 1920x1080bb.png
-│   ├── AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png
-│   ├── Netflix.png
-│   ├── b4111380-3bff-11ec-b337-c90ed481b33e.jpg
-│   ├── how-to-download-from-netflix-start-downloading.jpg
-│   ├── mobile-0819.jpg
-│   ├── netflix-tv-mockup-1519755367-1kFx-full-width-inline-removebg-preview (2).png
-│   ├── plus-button.png
-│   ├── th-removebg-preview (1).png
-│   ├── th.jpg
-├── README.md
-├── netflix.css
-└── netflix.html
-
-└── netflix.html
+# Netflix-Clone
+* **images:** Stores all the images used in the project (logos, icons, etc.)
+  * 1920x1080bb.png
+  * AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png
+  * Netflix.png
+  * b4111380-3bff-11ec-b337-c90ed481b33e.jpg
+  * how-to-download-from-netflix-start-downloading.jpg
+  * mobile-0819.jpg
+  * netflix-tv-mockup-1519755367-1kFx-full-width-inline-removebg-preview (2).png
+  * plus-button.png
+  * th-removebg-preview (1).png
+  * th.jpg
+* **README.md:** This file (you're currently reading it!)
+* **netflix.css:** Contains the CSS styles for the website's design.
+* **netflix.html:** The main HTML file that defines the website's structure and content.
 
 
