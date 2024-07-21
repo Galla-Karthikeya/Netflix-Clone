@@ -45,5 +45,6 @@ Netflix-Clone/
 │   ├── th.jpg
 ├── README.md
 ├── netflix.css
-├── netflix.html
+└── netflix.html
+
 
