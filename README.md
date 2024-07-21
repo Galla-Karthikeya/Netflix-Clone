@@ -47,4 +47,6 @@ Netflix-Clone/
 ├── netflix.css
 └── netflix.html
 
+└── netflix.html
+
 
